@@ -22,3 +22,11 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+#miconfig
+.gitignore
+eslint.config.js
+jsconfig.json
+package.json
+package-lock.json
+vite.config.js
